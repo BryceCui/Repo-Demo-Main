@@ -5,7 +5,6 @@
        revision="main"
        />
   <default remote="origin"
-    remote="github"
        sync-j="4" />
 
   <project name="BryceCui/Repo-Demo-A" path="BryceCui/Repo-Demo-A" groups="app" remote="github">
