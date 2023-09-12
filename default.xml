@@ -9,9 +9,9 @@
            revision="main"
        sync-j="4" />
 
-  <project name="Repo-Demo-A" path="BryceCui/Repo-Demo-A" groups="app" remote="github">
+  <project name="BryceCui/Repo-Demo-A" path="BryceCui/Repo-Demo-A" groups="app" remote="github">
     <linkfile src="README.md" dest="README.md"></linkfile>
   </project>
-  <project name="Repo-Demo-B" path="BryceCui/Repo-Demo-B" groups="app" remote="github"/>
+  <project name="BryceCui/Repo-Demo-B" path="BryceCui/Repo-Demo-B" groups="app" remote="github"/>
   <linkfile src="README.md" dest="README.md"></linkfile>
 </manifest>
