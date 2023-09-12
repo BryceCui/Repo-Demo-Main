@@ -4,8 +4,7 @@
        fetch="https://github.com"
        revision="main"
        />
-  <default remote="origin"
-       sync-j="4" />
+  <default revision="main" remote="github" />
 
   <project name="BryceCui/Repo-Demo-A" path="BryceCui/Repo-Demo-A" groups="app" remote="github">
     <linkfile src="README.md" dest="README.md"></linkfile>
