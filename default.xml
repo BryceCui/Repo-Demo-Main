@@ -5,6 +5,7 @@
        revision="main"
        />
   <default remote="origin"
+    fetch="https://github.com"
            revision="main"
        sync-j="4" />
 
